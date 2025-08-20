@@ -898,7 +898,7 @@
                 <img src="https://images.unsplash.com/photo-1593642632823-8f785ba67e45?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="Laptop" class="product-img">
                 <div class="product-info">
                     <h3>MacBook Pro 14"</h3>
-                    <div class="price">$1,999</div>
+                    <div class="price">$2,999</div>
                     <div class="rating">★★★★☆ <span>(86)</span></div>
                     <button class="add-to-cart">Add to Cart</button>
                 </div>
@@ -907,8 +907,8 @@
                 <span class="product-badge">-25%</span>
                 <img src="https://images.unsplash.com/photo-1529374255404-311a2a4f1fd9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="Smartwatch" class="product-img">
                 <div class="product-info">
-                    <h3>Apple Watch Series 8</h3>
-                    <div class="price">$349 <span class="old-price">$399</span></div>
+                    <h3>Apple Watch Series 9</h3>
+                    <div class="price">$549 <span class="old-price">$399</span></div>
                     <div class="rating">★★★★★ <span>(214)</span></div>
                     <button class="add-to-cart">Add to Cart</button>
                 </div>
@@ -936,7 +936,7 @@
                 <img src="https://images.unsplash.com/photo-1585386959984-a4155224a1ad?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="Perfume" class="product-img">
                 <div class="product-info">
                     <h3>Chanel No. 5</h3>
-                    <div class="price">$120</div>
+                    <div class="price">$720</div>
                     <div class="rating">★★★★★ <span>(189)</span></div>
                     <button class="add-to-cart">Add to Cart</button>
                 </div>
